@@ -1,0 +1,6 @@
+id=mhtob
+name=MagiskHide Toggle On Boot
+version=Module
+versionCode=00002
+author=ip
+description=Simple script that will toggle MagiskHide off and on during late boot.
